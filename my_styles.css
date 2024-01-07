@@ -35,7 +35,7 @@ footer {
   min-height: 100%;
 }
 .card:hover {
-  background-color: rgba(213, 213, 213, 1);
+  background-color: #d5d5d5;
 }
 .card img {
   border-radius: 1em;
